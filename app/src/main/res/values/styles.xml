@@ -27,6 +27,7 @@
         <item name="android:layout_marginTop">@dimen/defaultMarginTop</item>
         <item name="android:layout_marginBottom">@dimen/defaultMarginBottom</item>
     </style>
+
     <style name="TextViewThemeClasson" parent="ViewThemeClasson">
 
     </style>

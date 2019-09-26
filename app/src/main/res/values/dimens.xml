@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="textSize">18sp</dimen>
+    <dimen name="defaultTextSize">18sp</dimen>
     <dimen name="defaultMarginStart">30dp</dimen>
     <dimen name="defaultMarginEnd">30dp</dimen>
     <dimen name="defaultMarginTop">50dp</dimen>
     <dimen name="defaultMarginBottom">0dp</dimen>
+    <dimen name="defaultInputWidth">140dp</dimen>
+    <dimen name="defaultInputHeight">30dp</dimen>
 </resources>
